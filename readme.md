@@ -4,11 +4,11 @@
 
 ## Mission Statement
 
-TODO
+The objective of this project is to produce a free library of optical components that can be manufactured through 3D printing or milling. 
+
+The scope of the project encompasses a cage system, a post system and various mounts. It does not include hard-to-manufacutre components such as lenses, mirrors and filters.
 
 ## Manufacturing Requirements
-
-You will need access to an FDM or SLA 3D printer.
 
 ### Other Parts
 
