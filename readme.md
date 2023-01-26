@@ -8,6 +8,17 @@ The objective of this project is to produce a free library of optical components
 
 The current scope of the project encompasses a cage system, a post system and various mounts. It does not include hard-to-manufacutre components such as lenses, mirrors and filters
 
+## Manufacturing Requirements
+
+### Equipment
+
+
+
+### Software
+
+- FreeCAD (only if viewing or modifying components)
+- A 3D slicer 
+
 ### Other Parts
 
 - Tap inserts (TODO: standardise tappings on all models)
@@ -33,3 +44,8 @@ The current scope of the project encompasses a cage system, a post system and va
 - Poles (50mm, 100mm, 200mm)
 - Full pole tie
 - Half post tie
+
+# Assembly
+
+The use of M1 set screws and corresponding thread inserts is assumed where it is necessary to clamp components in place. It is recommended to use nylon-tipped set screws to avoid damaging clamped equipment.
+
