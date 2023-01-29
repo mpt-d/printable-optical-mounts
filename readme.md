@@ -8,6 +8,10 @@ The objective of this project is to produce a free library of optical components
 
 The current scope of the project encompasses a cage system, a post system and various mounts. It does not include hard-to-manufacutre components such as lenses, mirrors and filters
 
+## Disclaimer
+
+This project is not ready for use. Do not attempt to manufacture any of the components.
+
 ## Manufacturing Requirements
 
 ### Equipment
@@ -17,7 +21,7 @@ The current scope of the project encompasses a cage system, a post system and va
 ### Software
 
 - FreeCAD (only if viewing or modifying components)
-- A 3D slicer 
+- A 3D slicer for preparing SLA files for printing
 
 ### Other Parts
 
@@ -47,5 +51,5 @@ The current scope of the project encompasses a cage system, a post system and va
 
 # Assembly
 
-The use of M1 set screws and corresponding thread inserts is assumed where it is necessary to clamp components in place. It is recommended to use nylon-tipped set screws to avoid damaging clamped equipment.
+The use of M1.6 grub screws and corresponding thread inserts is assumed where it is necessary to clamp components in place. It is recommended to use nylon-tipped set screws to avoid damaging clamped equipment.
 
